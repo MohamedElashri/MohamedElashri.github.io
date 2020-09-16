@@ -784,7 +784,7 @@ var tree =
       },
       {
         "text": "Particle Physics",
-        "item-id": "c7,i175",
+        "item-id": "c7,i199",
         "nodes": [
           {
             "text": "White Paper on New Opportunities at the Next-Generation Neutrino Experiments (Part 1",
@@ -1135,6 +1135,140 @@ var tree =
             ],
             "resource": "storage/i177.pdf",
             "selectable": false
+          },
+          {
+            "text": "Late-time behavior of fast neutrino oscillations",
+            "item-id": "i199",
+            "nodes": [
+              {
+                "text": "Bhattacharyya_Dasgupta_2020_Late-time behavior of fast neutrino oscillations.pdf",
+                "item-id": "i201",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Bhattacharyya_Dasgupta_2020_Late-time behavior of fast neutrino oscillations.pdf",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Title",
+                    "Bhattacharyya_Dasgupta_2020_Late-time behavior of fast neutrino oscillations.pdf"
+                  ]
+                ],
+                "resource": "storage/i201.pdf"
+              },
+              {
+                "text": "APS Snapshot",
+                "item-id": "i202",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "APS Snapshot",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2020-09-16 16:19:43"
+                  ],
+                  [
+                    "Title",
+                    "APS Snapshot"
+                  ],
+                  [
+                    "URL",
+                    "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.063018"
+                  ]
+                ],
+                "resource": "storage/i202.html"
+              },
+              {
+                "text": "Late-time behavior of fast neutrino oscillations",
+                "item-id": "i203",
+                "icon": "glyphicon glyphicon-paperclip",
+                "item_title": "Late-time behavior of fast neutrino oscillations",
+                "item_type": "attachment",
+                "item_note": null,
+                "node_type": "item",
+                "metadata": [
+                  [
+                    "Access Date",
+                    "2020-09-16 16:19:45"
+                  ],
+                  [
+                    "Title",
+                    "Late-time behavior of fast neutrino oscillations"
+                  ],
+                  [
+                    "URL",
+                    "https://sci-hub.se/downloads/2020-09-16/f5/10.1103@PhysRevD.102.063018.pdf#view=FitH"
+                  ]
+                ],
+                "resource": "storage/i203.pdf"
+              }
+            ],
+            "icon": "glyphicon glyphicon-file",
+            "item_title": "Late-time behavior of fast neutrino oscillations",
+            "item_type": "journalArticle",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Abstract Note",
+                "We study the fully nonlinear fast flavor evolution of neutrinos in 1+1 dimensions. Our numerical analysis shows that at late times, the system reaches an approximately steady state. Using the steady-state approximation, we analytically show that the spatial variation of the polarization vectors is given by their precession around a common axis, which itself has a motion reminiscent of a gyroscopic pendulum. We then show that the steady-state solution to the equations of motion cannot be separated in position and velocity\u2014that is, the motion is not collective in the usual sense. However, the fast evolution allows spectral-swap-like dynamics leading to partial decoherence over a range of velocities, constrained by the conservation of lepton number(s). Finally, we numerically show that at late times, the transverse components of the polarization vectors become randomly oriented at different spatial locations for any velocity mode and lepton asymmetry."
+              ],
+              [
+                "Access Date",
+                "2020-09-16 16:19:09"
+              ],
+              [
+                "Creators",
+                "Soumya Bhattacharyya, Basudeb Dasgupta"
+              ],
+              [
+                "DOI",
+                "10.1103/PhysRevD.102.063018"
+              ],
+              [
+                "Date",
+                "2020-09-16 September 16, 2020"
+              ],
+              [
+                "Extra",
+                "Publisher: American Physical Society"
+              ],
+              [
+                "Issue",
+                "6"
+              ],
+              [
+                "Journal Abbreviation",
+                "Phys. Rev. D"
+              ],
+              [
+                "Library Catalog",
+                "APS"
+              ],
+              [
+                "Pages",
+                "063018"
+              ],
+              [
+                "Publication Title",
+                "Physical Review D"
+              ],
+              [
+                "Title",
+                "Late-time behavior of fast neutrino oscillations"
+              ],
+              [
+                "URL",
+                "10.1103/PhysRevD.102.063018"
+              ],
+              [
+                "Volume",
+                "102"
+              ]
+            ],
+            "selectable": false
           }
         ],
         "item_title": "Particle Physics",
@@ -1428,7 +1562,7 @@ var tree =
   },
   {
     "text": "Experiment Results",
-    "item-id": "c3,i77",
+    "item-id": "c3,i195",
     "nodes": [
       {
         "text": "NOvA",
@@ -1495,6 +1629,15 @@ var tree =
                   ]
                 ],
                 "resource": "storage/i141.html"
+              },
+              {
+                "text": "Version URL: <a href=\"http://web.archive.org/web/20200911143326/https://old.inspirehep.net/record/1815989\" data-original",
+                "item-id": "n194",
+                "icon": "glyphicon glyphicon-text-background",
+                "item_title": "Version URL: <a href=\"http://web.archive.org/web/20200911143326/https://old.inspirehep.net/record/1815989\" data-original",
+                "item_type": "note",
+                "item_note": "<div class=\"zotero-note znv1\">Version URL: &lt;a href=\"http://web.archive.org/web/20200911143326/https://old.inspirehep.net/record/1815989\" data-originalurl=\"https://old.inspirehep.net/record/1815989\" data-versiondate=\"2020-09-11T14:33:26Z\"&gt;Robust Link for: https://old.inspirehep.net/record/1815989&lt;/a&gt;</div>",
+                "node_type": "note"
               }
             ],
             "icon": "glyphicon glyphicon-file",
@@ -1521,7 +1664,7 @@ var tree =
               ],
               [
                 "Extra",
-                "Number: FERMILAB-MASTERS-2020-01; http://web.archive.org/web/20200911030958/https://old.inspirehep.net/record/1815989; http://web.archive.org/web/20200911031011/https://old.inspirehep.net/record/1815989"
+                "Number: FERMILAB-MASTERS-2020-01; http://web.archive.org/web/20200911030958/https://old.inspirehep.net/record/1815989; http://web.archive.org/web/20200911031011/https://old.inspirehep.net/record/1815989; http://web.archive.org/web/20200911143326/https://old.inspirehep.net/record/1815989"
               ],
               [
                 "Language",
@@ -2098,6 +2241,221 @@ var tree =
         ],
         "resource": "storage/i79.pdf",
         "selectable": false
+      },
+      {
+        "text": "A Search for Slow Magnetic Monopoles Below the Parker Bound",
+        "item-id": "i188",
+        "nodes": [
+          {
+            "text": "Version URL: <a href=\"http://web.archive.org/web/20200911072836/https://thesis.library.caltech.edu/2982/\" data-originalu",
+            "item-id": "n189",
+            "icon": "glyphicon glyphicon-text-background",
+            "item_title": "Version URL: <a href=\"http://web.archive.org/web/20200911072836/https://thesis.library.caltech.edu/2982/\" data-originalu",
+            "item_type": "note",
+            "item_note": "<div class=\"zotero-note znv1\">Version URL: &lt;a href=\"http://web.archive.org/web/20200911072836/https://thesis.library.caltech.edu/2982/\" data-originalurl=\"https://resolver.caltech.edu/CaltechETD:etd-07252008-144747\" data-versiondate=\"2020-09-11T07:28:36Z\"&gt;Robust Link for: https://resolver.caltech.edu/CaltechETD:etd-07252008-144747&lt;/a&gt;</div>",
+            "node_type": "note"
+          },
+          {
+            "text": "Kyriazopoulou_2002_A Search for Slow Magnetic Monopoles Below the Parker Bound.pdf",
+            "item-id": "i192",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Kyriazopoulou_2002_A Search for Slow Magnetic Monopoles Below the Parker Bound.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "Kyriazopoulou_2002_A Search for Slow Magnetic Monopoles Below the Parker Bound.pdf"
+              ]
+            ],
+            "resource": "storage/i192.pdf"
+          },
+          {
+            "text": "Snapshot",
+            "item-id": "i193",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Snapshot",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2020-09-11 07:29:01"
+              ],
+              [
+                "Title",
+                "Snapshot"
+              ],
+              [
+                "URL",
+                "https://thesis.library.caltech.edu/2982/"
+              ]
+            ],
+            "resource": "storage/i193.html"
+          }
+        ],
+        "icon": "glyphicon glyphicon-education",
+        "item_title": "A Search for Slow Magnetic Monopoles Below the Parker Bound",
+        "item_type": "thesis",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Abstract Note",
+            "NOTE: Text or symbols not renderable in plain ASCII are indicated by [...]. Abstract is included in .pdf document.\n\nDuring the years of high school physics, instructors would tell us how asymmetry in Maxwell's equations express the fact that while there are stable particles carrying electric charge in nature, there are no magnets with a single pole. Yet Dirac had suggested the idea of a magnetic monopole decades before I was born, and around the time I was attending high school, Cabrera was starting his experiments to find one. I first learned about the possibility of the existence of such a particle when in graduate school. The idea of proving wrong something I had learned to take for granted, was exciting. Of course, whether a stable particle which carries magnetic charge does exist or not has profound implications for our understanding of the universe, but still, what makes the very idea of a magnetic monopole so attractive to me is that there are not that many basic, everyday things left -- things like the indivisibility of a magnet -- to be confirmed yet.\n\nThis work describes a search for the magnetic monopole, as it is postulated in many Grand Unified Theories (GUT). Such monopoles are expected to be heavy ([\u2026] GeV), may have a large range of velocities and -- from current astrophysical constraints -- must be very rare. The most widely accepted upper limit to their flux comes from considerations of the survival of the galactic magnetic field (the Parker Bound 1), and it is of the order of [\u2026]. This flux regime was explored by MACRO (Monopole Astrophysics and Cosmic Ray Observatory), a large area detector built in Gran Sasso in Italy.\n\nSpecifically, this was a search for slow-moving magnetic monopoles with the MACRO detector. MACRO featured a large acceptance ([\u2026] 10,000 [\u2026]), and three separate detector systems for monopoles. This search relies primarily on one of these systems: the scintillation detector. A custom-made trigger was developed to detect the passage of slow-moving magnetic monopoles [\u2026] through a scintillator tank. This trigger was employed for the initial selection of events over the data-taking period between June 1995 and May 2000. There were around 28 million relevant triggers during this period. These represent potential monopole events; each must be examined carefully to see if all recorded details are consistent with the signature of monopole passage. Analysis of the events and final selection was performed mainly with the help of a system which digitally sampled and recorded the waveforms of photomultipliers monitoring the scintillation detectors. A specially-designed pattern recognition algorithm, following the philosophy of the slow monopole trigger, was developed, in order to identify the signature of slow monopoles in the waveform system, while suppressing background generated due to cosmic-ray muons or electronic noise.\n\nNo events were observed that are consistent with the passage of a slow monopole. Detailed data quality checks were performed for each data run and the resulting actual configuration of the detector was used in a Monte Carlo calculation of the detector's acceptance on a run-by-run basis. Based on the exposure time due to MACRO over these five years of data taking, this search sets an upper limit to the flux of magnetic monopoles of\n\n[\u2026]\n\nfor particles in the velocity range [\u2026]."
+          ],
+          [
+            "Access Date",
+            "2020-09-11 07:28:33"
+          ],
+          [
+            "Creators",
+            "Sophia Kyriazopoulou"
+          ],
+          [
+            "Date",
+            "2002-00-00 2002"
+          ],
+          [
+            "Extra",
+            "DOI: 10.7907/DPSY-DP97; http://web.archive.org/web/20200911072836/https://thesis.library.caltech.edu/2982/"
+          ],
+          [
+            "Library Catalog",
+            "thesis.library.caltech.edu"
+          ],
+          [
+            "Thesis Type",
+            "phd"
+          ],
+          [
+            "Title",
+            "A Search for Slow Magnetic Monopoles Below the Parker Bound"
+          ],
+          [
+            "URL",
+            "https://resolver.caltech.edu/CaltechETD:etd-07252008-144747"
+          ],
+          [
+            "University",
+            "California Institute of Technology"
+          ]
+        ],
+        "resource": "storage/i192.pdf",
+        "selectable": false
+      },
+      {
+        "text": "Late-time behavior of fast neutrino oscillations",
+        "item-id": "i195",
+        "nodes": [
+          {
+            "text": "Bhattacharyya_Dasgupta_2020_Late-time behavior of fast neutrino oscillations.pdf",
+            "item-id": "i197",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "Bhattacharyya_Dasgupta_2020_Late-time behavior of fast neutrino oscillations.pdf",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Title",
+                "Bhattacharyya_Dasgupta_2020_Late-time behavior of fast neutrino oscillations.pdf"
+              ]
+            ],
+            "resource": "storage/i197.pdf"
+          },
+          {
+            "text": "APS Snapshot",
+            "item-id": "i198",
+            "icon": "glyphicon glyphicon-paperclip",
+            "item_title": "APS Snapshot",
+            "item_type": "attachment",
+            "item_note": null,
+            "node_type": "item",
+            "metadata": [
+              [
+                "Access Date",
+                "2020-09-16 16:18:54"
+              ],
+              [
+                "Title",
+                "APS Snapshot"
+              ],
+              [
+                "URL",
+                "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.063018"
+              ]
+            ],
+            "resource": "storage/i198.html"
+          }
+        ],
+        "icon": "glyphicon glyphicon-file",
+        "item_title": "Late-time behavior of fast neutrino oscillations",
+        "item_type": "journalArticle",
+        "item_note": null,
+        "node_type": "item",
+        "metadata": [
+          [
+            "Abstract Note",
+            "We study the fully nonlinear fast flavor evolution of neutrinos in 1+1 dimensions. Our numerical analysis shows that at late times, the system reaches an approximately steady state. Using the steady-state approximation, we analytically show that the spatial variation of the polarization vectors is given by their precession around a common axis, which itself has a motion reminiscent of a gyroscopic pendulum. We then show that the steady-state solution to the equations of motion cannot be separated in position and velocity\u2014that is, the motion is not collective in the usual sense. However, the fast evolution allows spectral-swap-like dynamics leading to partial decoherence over a range of velocities, constrained by the conservation of lepton number(s). Finally, we numerically show that at late times, the transverse components of the polarization vectors become randomly oriented at different spatial locations for any velocity mode and lepton asymmetry."
+          ],
+          [
+            "Access Date",
+            "2020-09-16 16:18:15"
+          ],
+          [
+            "Creators",
+            "Soumya Bhattacharyya, Basudeb Dasgupta"
+          ],
+          [
+            "DOI",
+            "10.1103/PhysRevD.102.063018"
+          ],
+          [
+            "Date",
+            "2020-09-16 September 16, 2020"
+          ],
+          [
+            "Extra",
+            "Publisher: American Physical Society"
+          ],
+          [
+            "Issue",
+            "6"
+          ],
+          [
+            "Journal Abbreviation",
+            "Phys. Rev. D"
+          ],
+          [
+            "Library Catalog",
+            "APS"
+          ],
+          [
+            "Pages",
+            "063018"
+          ],
+          [
+            "Publication Title",
+            "Physical Review D"
+          ],
+          [
+            "Title",
+            "Late-time behavior of fast neutrino oscillations"
+          ],
+          [
+            "URL",
+            "10.1103/PhysRevD.102.063018"
+          ],
+          [
+            "Volume",
+            "102"
+          ]
+        ],
+        "resource": "storage/i197.pdf",
+        "selectable": false
       }
     ],
     "item_title": "Experiment Results",
@@ -2214,7 +2572,7 @@ var tree =
       },
       {
         "text": "ML Theory",
-        "item-id": "c16,i169",
+        "item-id": "c16,i164",
         "nodes": [
           {
             "text": "A logical calculus of the ideas immanent in nervous activity",
@@ -2318,69 +2676,6 @@ var tree =
               [
                 "Volume",
                 "5"
-              ]
-            ],
-            "selectable": false
-          },
-          {
-            "text": "Zotero",
-            "item-id": "i169",
-            "nodes": [
-              {
-                "text": "Version URL: <a href=\"http://web.archive.org/web/20200911033540/https://melashri.net/zotero/\" data-originalurl=\"https://",
-                "item-id": "n170",
-                "icon": "glyphicon glyphicon-text-background",
-                "item_title": "Version URL: <a href=\"http://web.archive.org/web/20200911033540/https://melashri.net/zotero/\" data-originalurl=\"https://",
-                "item_type": "note",
-                "item_note": "<div class=\"zotero-note znv1\">Version URL: &lt;a href=\"http://web.archive.org/web/20200911033540/https://melashri.net/zotero/\" data-originalurl=\"https://melashri.net/zotero/\" data-versiondate=\"2020-09-11T03:35:40Z\"&gt;Robust Link for: https://melashri.net/zotero/&lt;/a&gt;</div>",
-                "node_type": "note"
-              },
-              {
-                "text": "Zotero",
-                "item-id": "i171",
-                "icon": "glyphicon glyphicon-paperclip",
-                "item_title": "Zotero",
-                "item_type": "attachment",
-                "item_note": null,
-                "node_type": "item",
-                "metadata": [
-                  [
-                    "Access Date",
-                    "2020-09-11 03:35:41"
-                  ],
-                  [
-                    "Title",
-                    "Zotero"
-                  ],
-                  [
-                    "URL",
-                    "https://melashri.net/zotero/"
-                  ]
-                ],
-                "resource": "storage/i171.html"
-              }
-            ],
-            "icon": "glyphicon glyphicon-bookmark",
-            "item_title": "Zotero",
-            "item_type": "webpage",
-            "item_note": null,
-            "node_type": "item",
-            "metadata": [
-              [
-                "Access Date",
-                "2020-09-11 03:35:39"
-              ],
-              [
-                "Extra",
-                "http://web.archive.org/web/20200911033540/https://melashri.net/zotero/"
-              ],
-              [
-                "Title",
-                "Zotero"
-              ],
-              [
-                "URL",
-                "https://melashri.net/zotero/"
               ]
             ],
             "selectable": false
